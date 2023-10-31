@@ -1,0 +1,16 @@
+{
+  "name": "promo-texter",
+  "version": "1.0.0",
+  "description": "A simple REST API for promotexter exam",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ronald",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0"
+  }
+}
